@@ -1,0 +1,4 @@
+C:\Users\daniela.rocca\source\repos\MinhasSeries\obj\Debug\net7.0\MinhasSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniela.rocca\source\repos\MinhasSeries\obj\Debug\net7.0\MinhasSeries.AssemblyInfoInputs.cache
+C:\Users\daniela.rocca\source\repos\MinhasSeries\obj\Debug\net7.0\MinhasSeries.AssemblyInfo.cs
+C:\Users\daniela.rocca\source\repos\MinhasSeries\obj\Debug\net7.0\MinhasSeries.csproj.CoreCompileInputs.cache
